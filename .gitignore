@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+**/__pycache__/
+*.pyc
+.vs/
+.venv/
+.DS_Store
